@@ -7,7 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "bbot>=2.7.2",
     "dnspython>=2.7.0",
-    "google-adk>=1.17.0",
+    "google-adk>=1.28.1",
     "ipykernel>=7.1.0",
     "jupyter>=1.1.1",
     "litellm>=1.79.1",
